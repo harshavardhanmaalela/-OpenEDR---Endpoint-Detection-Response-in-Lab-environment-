@@ -1,4 +1,4 @@
-# -OpenEDR---Endpoint-Detection-Response-in-Lab-environment-
+# OpenEDR  Endpoint Detection Response in Lab environment
 
 📌 Project Overview
 OpenEDR is a free, open-source Endpoint Detection and Response platform that provides continuous monitoring of endpoints for suspicious activities. This project documents the full setup and feature testing of OpenEDR across a multi-OS environment, including:
